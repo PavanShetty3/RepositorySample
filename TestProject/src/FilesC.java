@@ -22,6 +22,7 @@ public class FilesC {
 			e.printStackTrace();
 		}
 		System.out.println("Check");
+		System.out.println("This is checked");
 	}
 
 }
